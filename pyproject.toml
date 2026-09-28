@@ -11,7 +11,7 @@ authors = [
 dependencies = [
     "aiohttp>=3.10.8",
     "jq>=1.10.0",
-    "multidict>=6.1.0",
+    "multidict>=6.9.1",
     "requests>=2.32.3",
     "uvloop>=0.21.0",
 ]
